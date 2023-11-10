@@ -3,8 +3,8 @@
 
                                       📧 terryhwanampe@gmail.com
 📁                                                                         
-┣━━ Projects 🗃                                                                                                                                                                     
-┃   ├── [British Airways Good or Bad? ](https://github.com/terrykhwan/British-Airways/tree/main)                                                                                    
-┃   ├── [Excel - Tableau Projects](https://github.com/terrykhwan/PortfolioProjectExcel)                                                                                        
-┃   ├── [SQL Projects](https://github.com/terrykhwan/PortfolioProjectSQL)                                                                                                     
+┣━ Projects 🗃                                                                                                                                                                     
+┃  ├ [British Airways Good or Bad? ](https://github.com/terrykhwan/British-Airways/tree/main)                                                                                    
+┃  ├ [Excel - Tableau Projects](https://github.com/terrykhwan/PortfolioProjectExcel)                                                                                        
+┃  ├ [SQL Projects](https://github.com/terrykhwan/PortfolioProjectSQL)                                                                                                     
 ┗━━ README.md
